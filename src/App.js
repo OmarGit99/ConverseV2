@@ -1,5 +1,5 @@
 import './App.css'
-import Header from './components/header/Header'
+import Header from './components/Header/Header'
 import Sidebar from './components/sidebar/Sidebar'
 import Channel from './screens/channel/Channel'
 import Login from './screens/login/Login'
