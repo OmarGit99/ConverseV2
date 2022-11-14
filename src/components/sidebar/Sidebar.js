@@ -82,10 +82,10 @@ function Sidebar() {
         <CreateIcon />
       </div>
       <div className="sidebar__options">
-        <SidebarOption Icon={InsertCommentIcon} title="Thread" />
+        {/*<SidebarOption Icon={InsertCommentIcon} title="Thread" />
         <SidebarOption Icon={AlternateEmailIcon} title="Mentions & Reactions" />
         <SidebarOption Icon={MoreVertIcon} title="More" />
-        <hr />
+        <hr />*/}
         <SidebarOption Icon={ArrowDropDownIcon} title="Channels" />
         <hr />
         {channels.map((channel) =>
