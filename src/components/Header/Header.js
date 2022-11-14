@@ -27,7 +27,7 @@ function Header() {
       </div>
       <div className="header__middle">
         <SearchIcon />
-        <input placeholder="Search tutorial-daltonic" />
+        <input placeholder="Search development-team" />
       </div>
       <div className="header__right">
         <HelpOutlineIcon />

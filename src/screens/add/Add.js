@@ -15,7 +15,7 @@ function Add() {
       alert('Please fill the form completely')
       return null
     }
-
+    console.log(generateGUID());
     cometChatCreateGroup({
       channel,
       privacy,
